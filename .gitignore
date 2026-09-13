@@ -1,0 +1,8 @@
+# salida de la instalación, nunca versionada
+win/
+prefix/
+roms/
+*.iso
+*.zip
+*.log
+*.bak
